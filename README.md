@@ -8,6 +8,7 @@ The dataset used in this project is taken from https://www.kaggle.com/shivamb/ne
 
 ## OBJECTIVES
 -> ETL: Extract Transform Load of the data to identify and select the useful data.
+
 -> Study the content on the following basis:
 1. Fitting an ARIMA model (time series) to the duration of movies over the year to find a pattern.
 2. Year when the content was released and when it was added on Netflix.
