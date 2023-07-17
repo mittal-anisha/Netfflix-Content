@@ -1,7 +1,7 @@
 # Analyzing the content on Netflix
 
 ## ABSTRACT
-For the last few years, the world is facing a pandemic due to which humanity has been forced to stay indoors. Everything in the world is done online now. Since staying indoors does not leave a lot of entertainment options, there has been a significant increase in watching movies and TV shows. There are all types of content available from all over the world on one single platform: NETFLIX. This report analyses the contents available on Netflix US.
+The world faced a pandemic due to which humanity was forced to stay indoors. Everything in the world is done online now. Since staying indoors does not leave a lot of entertainment options, there has been a significant increase in watching movies and TV shows. There are all types of content available from all over the world on one single platform: NETFLIX. This report analyses the contents available on Netflix US.
 
 ## NOTE:
 The dataset used in this project is taken from https://www.kaggle.com/shivamb/netflix-shows (https://www.kaggle.com/shivamb/netflix-shows) and is updated monthly. The data contains information about the movies and Tv shows available on Netflix US. There is some missing data in this data set but for the purpose of this project, we will assume that this is accurate and perform our analysis.
